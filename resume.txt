@@ -1,0 +1,78 @@
+Freddy Shaikh
+DEVOPS ENGiNEER - SOLUTiONS ARCHiTECT
+Toronto, Canada
+Phone: (437)-267-3291 | Email: shaikhfh1@gmail.com | Portfolio: freddyshaikh.com | Github: Freddy-S3 | Linkedin: freddy-shaikh
+
+
+Skills
+Languages: Java, Python, Go, SQL, Powershell, Bash, and VBA
+
+Frameworks: AWS, GCP, Kubernetes, Terraform, Spring boot, Django, Vizard, Selenium, Git, Jenkins
+
+Concepts: API designs, Test driven development, Micro-frontend, CI/CD, Agile, Scrum, Kanban, REST, and Infrastucture as Code
+
+
+Experience
+DEVOPS ENGiNEER April 2021 - PRESENT
+Santoku Corporation www.Rimm.ai Toronto, Canada
+Proactively identified inefficiencies in IT resources and conducted proof-of-concepts for cost-effective cloud solutions.
+- Re-architected monolithic application into micro-services to increase up-time and efficiency in the cloud.
+- Utilized AWS Lambda to automate IT tasks such as server health-checks, and create automated SNS alerts.
+- Implemented Docker containers and orchestrated them with Kubernetes for improved scalability and fault tolerance.
+- Utilized infrastructure-as-code principles to design and manage AWS cloud infrastructure using Terraform, reducing provisioning time by 50%.
+- Conducted regular security audits and implemented security best practices using AWS IAM to ensure compliance with industry standards.
+- Created a hybrid cloud solution using AWS file gateway to allow for lower latency workflow and asynchronous cloud development.
+- Participated in agile ceremonies, including daily stand-ups, sprint planning, and retrospective meetings.
+
+SOFTWARE ENGiNEER August 2019 - August 2021
+Santoku Corporation www.Rimm.ai Toronto, Canada
+- Planned, researched, and created haptic VR system prototypes.
+- Refactored legacy code to use object-oriented programming.
+- Developed RESTful microservices by leveraging Java 8 & Spring boot in a full-stack Agile team setting.
+- Created automated unit, integration, and API tests for VR training programs.
+- Participated in distributed system architecture design.
+- Read and collected information from 56 books and 103 scientific articles to design a joint psychology research project with a university.
+- Consulted with university professors, psychology experts, and industry leaders to design a prototype Haptic VR training system.
+- Trained clients on how to setup and operate Haptic VR training programs.
+
+ENGLiSH LANGUAGE TEACHER August 2018 - August 2019
+Japan Exchange Teaching Program Tokyo, Japan
+- Main English teacher to over 1000 Japanese elementary students and 500 Japanese middle school students
+- Awarded the Kizuna Ambassador Award for excellence in teaching
+- Mentored and trained new teachers and interns
+- Planned, prepared, and executed curriculum and teaching materials
+- Created a motivating and group‑focused atmosphere
+
+HOSPiTAL VOLUNTEER October 2014 - August 2018
+Credit Valley Hospital Mississauga, ON
+- Worked with physiotherapists to aid and encourage patients in achieving rehabilitative objectives through walking and exercise
+- Worked with nurses to organize, restock, and order new medical supplies for multiple hospital units
+
+
+Projects
+Porfolio Project (FreddyShaikh.com)
+- Created a portfolio website using JavaScript, HTML, and CSS to showcase my front-end skills.
+- Currently the product is deployed into production using AWS Content Delivery Network for low latency static content delivery.
+
+Google Drive Clone (github.com/Freddy-S3/Google-Drive-Clone)
+- Created a fully functional file manager application similar to Google Drive using Laravel, PHP, Inertial, and Vuejs.
+- The application comes with the following functionalities: creating folders at unlimited depth, uploading files and folders, deleting and downloading
+files, searching for files, sharing files, uploading files to AWS S3 and more.
+- JWT web token are used as authentication between the frontend and backend.
+
+
+Certifications & Awards
+In Progress Google Cloud GCP Certification - Professional Cloud Architect, Google Cloud Certification Toronto, Canada
+2023 AWS Certified Solutions Architect - Professional, AWS Training and Certification Toronto, Canada
+2021 AWS Certified Solutions Architect - Associate, AWS Training and Certification Toronto, Canada
+2020 AWS Certified Cloud Practitioner, AWS Training and Certification Toronto, Canada
+2019 Japanese Level N2 Certification, Japanese Language Proficiency Test Tokyo, Japan
+2018 TEFL Teaching Certification, University of Toronto Toronto, ON
+2018 Dean’s Honours List, McMaster University Hamilton, ON
+2016 University Senate Scholarship, McMaster University Hamilton, ON
+2014 Grade 12 French Certification, Peel District School Board Toronto, ON
+
+
+Education
+McMaster University Hamilton, ON
+BACHELOR OF HONORS SCiENCE September 2014-June 2018
