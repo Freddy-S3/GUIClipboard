@@ -30,6 +30,8 @@ coverletter = ["Cover Letter", coverletterText]
 
 
 #additional answers
+notApplicable = "N/A"
+
 today = datetime.datetime.now()
 dateMDY = today.strftime("%x")
 date = ["Date", dateMDY]
@@ -60,7 +62,9 @@ buttons = [address,
            phoneNumber,
            email,
            linkedIn,
-           portfolio
+           portfolio,
+           github,
+           notApplicable
            ]
 
 bigButtons = [fullPortfolio,
