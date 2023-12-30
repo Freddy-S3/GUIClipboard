@@ -30,7 +30,9 @@ coverletter = ["Cover Letter", coverletterText]
 
 
 #additional answers
+salary = "115000"
 notApplicable = "N/A"
+whereDidYouHear = "ZipRecruiter"
 
 today = datetime.datetime.now()
 dateMDY = today.strftime("%x")
@@ -64,7 +66,9 @@ buttons = [address,
            linkedIn,
            portfolio,
            github,
-           notApplicable
+           notApplicable,
+           salary,
+           whereDidYouHear
            ]
 
 bigButtons = [fullPortfolio,
