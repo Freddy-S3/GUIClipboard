@@ -52,6 +52,18 @@ https://github.com/Freddy-S3
 Thank you for your time and consideration in reviewing me as a candidate. Have a nice day!"""
 fullPortfolio = ["Full Portfolio", fullPortfolioText]
 
+
+whyUsText = """Based on the description, 
+I get to make full use of my diverse set of talents, 
+while the position is still challenging enough for me to learn something new."""
+whyUs = ["Why Us?", whyUsText]
+
+
+referredText = "Unfortunately no, but I would love to get to know the team!"
+referred = ["Referred?", referredText]
+
+
+
 #buttons
 buttons = [address,
            city,
@@ -75,7 +87,9 @@ bigButtons = [fullPortfolio,
               resume,
               coverletter,
               date,
-              twoWeeksNotice]
+              twoWeeksNotice,
+              whyUs,
+              referred]
 
 
 #global counter
