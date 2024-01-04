@@ -35,11 +35,11 @@ notApplicable = "N/A"
 whereDidYouHear = "ZipRecruiter"
 
 today = datetime.datetime.now()
-dateMDY = today.strftime("%x")
+dateMDY = today.strftime("%m/%d/%Y")
 date = ["Date", dateMDY]
 
 twoWeekslater = today + datetime.timedelta(days=14)
-twoWeeksMDY = twoWeekslater.strftime("%x")
+twoWeeksMDY = twoWeekslater.strftime("%m/%d/%Y")
 twoWeeksNotice = ["2 Weeks Notice", twoWeeksMDY]
 
 
@@ -59,7 +59,7 @@ while the position is still challenging enough for me to learn something new."""
 whyUs = ["Why Us?", whyUsText]
 
 
-referredText = "Unfortunately no, but I would love to get to know the team!"
+referredText = "Unfortunately I was not referred, but I would love to get to know the team!"
 referred = ["Referred?", referredText]
 
 
