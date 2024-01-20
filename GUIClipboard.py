@@ -63,6 +63,12 @@ referredText = "Unfortunately I was not referred, but I would love to get to kno
 referred = ["Referred?", referredText]
 
 
+whyMeText = """I am very proficient in teaching myself new technologies and methods, 
+as evidenced by me teaching myself Japanese to fluency, 
+and teaching myself Software Engineering and DevOps, 
+despite my academic background being Healthcare"""
+whyMe = ["Why Me?", whyMeText]
+
 
 #buttons
 buttons = [address,
@@ -89,7 +95,8 @@ bigButtons = [fullPortfolio,
               date,
               twoWeeksNotice,
               whyUs,
-              referred]
+              referred,
+              whyMe]
 
 
 #global counter
