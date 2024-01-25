@@ -69,6 +69,8 @@ and teaching myself Software Engineering and DevOps,
 despite my academic background being Healthcare"""
 whyMe = ["Why Me?", whyMeText]
 
+whyMe150CharText = """After escaping medical school, teaching myself Japanese, programming, and cloud architecture, I believe that I can teach myself just about anything!"""
+whyme150Char = ["Why Me? 150Char", whyMe150CharText]
 
 #buttons
 buttons = [address,
@@ -96,7 +98,8 @@ bigButtons = [fullPortfolio,
               twoWeeksNotice,
               whyUs,
               referred,
-              whyMe]
+              whyMe,
+              whyme150Char]
 
 
 #global counter
