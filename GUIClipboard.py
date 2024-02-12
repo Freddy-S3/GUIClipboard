@@ -33,6 +33,8 @@ coverletter = ["Cover Letter", coverletterText]
 salary = "115000"
 notApplicable = "N/A"
 whereDidYouHear = "ZipRecruiter"
+yesAnswer = "Yes"
+noAnswer = "No"
 
 today = datetime.datetime.now()
 dateMDY = today.strftime("%m/%d/%Y")
@@ -54,8 +56,7 @@ fullPortfolio = ["Full Portfolio", fullPortfolioText]
 
 
 whyUsText = """Based on the description, 
-I get to make full use of my diverse set of talents, 
-while the position is still challenging enough for me to learn something new."""
+I get to make full use of my diverse set of talents, while the position is still challenging enough for me to learn something new."""
 whyUs = ["Why Us?", whyUsText]
 
 
@@ -86,9 +87,11 @@ buttons = [address,
            linkedIn,
            portfolio,
            github,
-           notApplicable,
            salary,
-           whereDidYouHear
+           whereDidYouHear,
+           yesAnswer,
+           noAnswer,
+           notApplicable
            ]
 
 bigButtons = [fullPortfolio,
