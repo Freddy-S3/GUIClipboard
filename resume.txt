@@ -15,7 +15,7 @@ Concepts: API designs, Test driven development, Micro-frontend, CI/CD, Agile, Sc
 Experience
 DEVOPS ENGiNEER April 2021 - PRESENT
 Santoku Corporation www.Rimm.ai Toronto, Canada
-Proactively identified inefficiencies in IT resources and conducted proof-of-concepts for cost-effective cloud solutions.
+- Proactively identified inefficiencies in IT resources and conducted proof-of-concepts for cost-effective cloud solutions.
 - Re-architected monolithic application into micro-services to increase up-time and efficiency in the cloud.
 - Utilized AWS Lambda to automate IT tasks such as server health-checks, and create automated SNS alerts.
 - Implemented Docker containers and orchestrated them with Kubernetes for improved scalability and fault tolerance.
