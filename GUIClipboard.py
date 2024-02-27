@@ -73,6 +73,9 @@ whyMe = ["Why Me?", whyMeText]
 whyMe150CharText = """After escaping medical school, teaching myself Japanese, programming, and cloud architecture, I believe that I can teach myself just about anything!"""
 whyme150Char = ["Why Me? 150Char", whyMe150CharText]
 
+thankYouText = """Thank you for taking the time to look at my application! Have a nice day!"""
+thankYou = ["Thank you", thankYouText]
+
 #buttons
 buttons = [address,
            city,
@@ -102,7 +105,8 @@ bigButtons = [fullPortfolio,
               whyUs,
               referred,
               whyMe,
-              whyme150Char]
+              whyme150Char,
+              thankYou]
 
 
 #global counter
