@@ -62,7 +62,8 @@ files, searching for files, sharing files, uploading files to AWS S3 and more.
 
 
 Certifications & Awards
-In Progress Google Cloud GCP Certification - Professional Cloud Architect, Google Cloud Certification Toronto, Canada
+In Progress Google Cloud GCP Certification ‑ Professional Machine Learning Engineer, Google Cloud Certification Toronto, Canada
+2024 Google Cloud GCP Certification - Professional Cloud Architect, Google Cloud Certification Toronto, Canada
 2023 AWS Certified Solutions Architect - Professional, AWS Training and Certification Toronto, Canada
 2021 AWS Certified Solutions Architect - Associate, AWS Training and Certification Toronto, Canada
 2020 AWS Certified Cloud Practitioner, AWS Training and Certification Toronto, Canada
