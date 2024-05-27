@@ -45,7 +45,7 @@ twoWeeksMDY = twoWeekslater.strftime("%m/%d/%Y")
 twoWeeksNotice = ["2 Weeks Notice", twoWeeksMDY]
 
 
-fullPortfolioText = """Here's my Portfolio:
+fullPortfolioText = """Here is my Portfolio:
 https://www.freddyshaikh.com/
 
 All the code used is publicly available on my Github:
@@ -75,6 +75,9 @@ whyme150Char = ["Why Me? 150Char", whyMe150CharText]
 
 thankYouText = """Thank you for taking the time to look at my application! Have a nice day!"""
 thankYou = ["Thank you", thankYouText]
+
+noExperienceText = """Unfortunately no, but as someone who taught themselves Japanese, Software Engineering, and Cloud Architecture, I would be more than willing to teach myself given some time."""
+noExperience = ["No Experience?", noExperienceText]
 
 #buttons
 buttons = [address,
@@ -106,7 +109,8 @@ bigButtons = [fullPortfolio,
               referred,
               whyMe,
               whyme150Char,
-              thankYou]
+              thankYou,
+              noExperience]
 
 
 #global counter

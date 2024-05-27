@@ -1,10 +1,10 @@
 Are you searching for a dynamic and results-driven DevOps Engineer with a proven track record of successfully bringing software projects from concept to production?
-Do you need someone with AWS Professional level Certification in Solutions Architecting? Look no further!
+Do you need someone with GCP and AWS Professional level certification in Solutions Architecting? Look no further!
 
 Over the course of my 4-year professional journey as a self-taught DevOps engineer, I have honed my skills in various aspects of computer sciences. 
 From breaking down monolithic applications into scalable cloud microservices to orchestrating containerized environments, I have consistently demonstrated my passion for technology and my ability to adapt to cutting-edge tools and methodologies.
 
-My AWS Professional level Certification in Solutions Architecting stands as a testament to my in-depth knowledge of cloud architecture and my ability to design secure, highly available, and cost-efficient solutions.
+My GCP and AWS Professional level certification in Solutions Architecting stands as a testament to my in-depth knowledge of cloud architecture and my ability to design secure, highly available, and cost-efficient solutions.
 Leveraging my leadership qualities, I have successfully mentored and collaborated with cross-functional teams to drive successful project deliveries while maintaining a high standard of professionalism.
 
 My experience as a teacher has equipped me with excellent communication and presentation skills, enabling me to break down complex concepts into easily digestible and actionable steps. 
