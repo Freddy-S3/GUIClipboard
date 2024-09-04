@@ -15,19 +15,19 @@ Concepts: API designs, Test driven development, Micro-frontend, CI/CD, Agile, Sc
 Experience
 DEVOPS ENGiNEER April 2021 - PRESENT
 Santoku Corporation www.Rimm.ai Toronto, Canada
-- Proactively identified inefficiencies in IT resources and conducted proof‑of‑concepts for cost‑effective cloud solutions.
-- Re‑architected monolithic application into micro‑services to increase up‑time, efficiency, and durability in the cloud.
-- Utilized infrastructure‑as‑code principles to design and manage AWS cloud infrastructure using Terraform, reducing provisioning time by 50%.
+- Proactively identified inefficiencies in IT resources and conducted proof-of-concepts for cost-effective cloud solutions.
+- Re-architected monolithic application into micro-services to increase up-time, efficiency, and durability in the cloud.
+- Utilized infrastructure-as-code principles to design and manage AWS cloud infrastructure using Terraform, reducing provisioning time by 50%.
 - Implemented Docker containers and orchestrated them with Kubernetes for improved scalability and fault tolerance.
-- Utilized AWS Lambda to automate IT tasks such as server health‑checks, and create automated SNS alerts.
+- Utilized AWS Lambda to automate IT tasks such as server health-checks, and create automated SNS alerts.
 - Conducted regular security audits and fulfilled security best practices using AWS IAM to ensure compliance with industry standards.
 
 SOFTWARE ENGiNEER August 2019 - August 2021
 Santoku Corporation www.Rimm.ai Toronto, Canada
 - Planned, researched, and created haptic VR system prototypes.
-- Refactored legacy code to use object‑oriented programming.
+- Refactored legacy code to use object-oriented programming.
 - Created automated unit, integration, and API tests for VR training programs.
-- Engaged in agile ceremonies, including daily stand‑ups, sprint planning, and retrospective meetings.
+- Engaged in agile ceremonies, including daily stand-ups, sprint planning, and retrospective meetings.
 - Read and collected information from 56 books and 103 scientific articles to design a joint psychology research project with a university.
 - Trained clients on how to setup and operate haptic VR training programs.
 
@@ -37,7 +37,7 @@ Japan Exchange Teaching Program Tokyo, Japan
 - Awarded the Kizuna Ambassador Award for excellence in teaching
 - Mentored and trained new teachers and interns
 - Planned, prepared, and executed curriculum and teaching materials
-- Created a motivating and group‑focused atmosphere
+- Created a motivating and group-focused atmosphere
 
 HOSPiTAL VOLUNTEER October 2014 - August 2018
 Credit Valley Hospital Mississauga, ON
@@ -47,11 +47,11 @@ Credit Valley Hospital Mississauga, ON
 
 Projects
 Porfolio Project (FreddyShaikh.com)
-- Designed a portfolio website using JavaScript, HTML, and CSS to showcase front‑end skills.
+- Designed a portfolio website using JavaScript, HTML, and CSS to showcase front-end skills.
 - Currently deployed into production using AWS Content Delivery Network for low latency static content delivery of under 400 milliseconds.
 
 Google Drive Clone (github.com/Freddy-S3/Google-Drive-Clone)
-- Created a fully functional file manager application similar to Google Drive using Laravel, PHP, Inertial, and Vuejs to showcase back‑end skills.
+- Created a fully functional file manager application similar to Google Drive using Laravel, PHP, Inertial, and Vuejs to showcase back-end skills.
 - Includes the following functionalities: creating folders at unlimited depth, uploading files or folders, deleting or downloading files, searching
 for files, sharing files, uploading files to AWS S3 and more.
 
